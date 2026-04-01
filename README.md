@@ -1,6 +1,7 @@
 # 🚀 AI-Driven Career Path & Skill Gap Analyzer
 
 ### "Bridging the gap between Academic Learning and Industry Standards using NLP."
+**[🔗 Live Demo - Click Here](https://career-analyzer-ayush.onrender.com)**
 
 ---
 
